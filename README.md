@@ -27,14 +27,6 @@ You can download the MovieLens dataset from [https://grouplens.org/datasets/movi
 
 ## Example Visualizations
 
-- Most popular movie genres
-- Distribution of ratings
-- Top rated movies
-
-
-
-
-Add your generated plots here for better project presentation. Example:
 
 ![Top 10 Genres](images/top10_genres.png)
 ![Rating Distribution](images/rating_distribution.png)

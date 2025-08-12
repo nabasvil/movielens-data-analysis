@@ -26,9 +26,25 @@ You can download the MovieLens dataset from [https://grouplens.org/datasets/movi
 3. Open and run the notebook for analysis and visualizations
 
 ## Example Visualizations
+
 - Most popular movie genres
 - Distribution of ratings
 - Top rated movies
+
+
+
+
+Add your generated plots here for better project presentation. Example:
+
+![Top 10 Genres](images/top10_genres.png)
+![Rating Distribution](images/rating_distribution.png)
+![Top Rated Movies](images/top30_rated_movies.png)
+![Average Rating by Genre](images/avg_rating_by_genre.png)
+![Average Rating by Year](images/avg_rating_by_year.png)
+![User Activity](images/top10_active_users.png)
+![User-Genre Heatmap](images/user_genre_heatmap.png)
+
+> Plots are saved only once for documentation. If you want to save new images, add `plt.savefig('images/your_plot_name.png')` to the relevant cell and run it manually.
 
 ## License
 MIT
